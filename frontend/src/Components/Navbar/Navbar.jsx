@@ -5,6 +5,7 @@ import card_icon from '../Assets/cart_icon.png'
 
 const Navbar = () => {
     const [menu,setMenu] = useState("shop")
+    
   return (
     <div className='navbar'>
 
